@@ -1,0 +1,37 @@
+[{
+	"circulationAmount": 0,
+	"currencyCode": "101",
+	"currencyEnName": "BTC",
+	"currencyId": 101,
+	"currencyOrder": 0,
+	"isShow": 0,
+	"issueAmount": 0,
+	"issuePrice": 10.000000
+}, {
+	"circulationAmount": 0,
+	"currencyCode": "102",
+	"currencyEnName": "ETH",
+	"currencyId": 102,
+	"currencyOrder": 0,
+	"isShow": 0,
+	"issueAmount": 0,
+	"issuePrice": 20.000000
+}, {
+	"circulationAmount": 0,
+	"currencyCode": "103",
+	"currencyEnName": "FM",
+	"currencyId": 103,
+	"currencyOrder": 0,
+	"isShow": 0,
+	"issueAmount": 0,
+	"issuePrice": 30.000000
+}, {
+	"circulationAmount": 0,
+	"currencyCode": "104",
+	"currencyEnName": "MY",
+	"currencyId": 104,
+	"currencyOrder": 0,
+	"isShow": 0,
+	"issueAmount": 0,
+	"issuePrice": 40.000000
+}]
